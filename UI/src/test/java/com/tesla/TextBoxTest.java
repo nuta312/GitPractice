@@ -2,7 +2,6 @@ package com.tesla;
 
 import com.digital.driver.Driver;
 import com.digital.helper.ScreenShotMethods;
-import com.tesla.BaseTest;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.ui.ExpectedConditions;
